@@ -34,6 +34,8 @@
 
 😎 So that's all about me, and I'm really glad to connect with all of you.
 
+PS. You might not see any repository here, because all repositories are private.
+
 <!---
 MinMin2424/MinMin2424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
