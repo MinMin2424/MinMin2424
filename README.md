@@ -28,6 +28,7 @@
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) <!-- HTML -->
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <!-- CSS -->
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <!-- JavaScript -->
+  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) <!-- jQuery -->
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <!-- PHP -->
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) <!-- Python -->
@@ -35,8 +36,6 @@
   <!-- <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/> -->
 
 😎 So that's all about me, and I'm really glad to connect with all of you.
-
-PS. You might not see any repository here, because all repositories are private.
 
 <!---
 MinMin2424/MinMin2424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
